@@ -14,9 +14,7 @@ Plug the coefficients into the script like so:
     ypp_coeffs = [1 0 0];
 
 The program outputs:
-The minimum power in the summation will be x^2
-
-
+    The minimum power in the summation will be x^2
 
 
     For term (-4x^0) y, L = - 4*A(0) - 4*x*A(1), F = -4*x^(n + 2)*A(n + 2)
